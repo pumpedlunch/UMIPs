@@ -1,6 +1,6 @@
 ## Headers
 
-| UMIP-107                |                                                               |
+| UMIP-169                |                                                               |
 | ------------------- | ------------------------------------------------------------- |
 | UMIP Title          | Add `DECENTRA-LIST` as a supported price identifier |
 | Authors             | pumpedlunch                                                     |
